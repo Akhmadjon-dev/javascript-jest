@@ -1,0 +1,17 @@
+{
+  "name": "introduction-to-jest",
+  "version": "1.0.0",
+  "description": "This is simple tutorial for learning and teaching jest testing framework",
+  "main": "main.js",
+  "author": "Akhmadjon",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
